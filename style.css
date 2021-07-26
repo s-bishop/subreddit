@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background: rgb(174, 37, 46);
+}
+
+h1 {
+    color: mediumspringgreen;
+    margin: 10px;
+    padding: 10px;
+    border-bottom: solid 2px black;
+    border-radius: 10px;
+    background: linear-gradient(to bottom right, mediumblue, lightblue);
+}
+img {
+    width: 30%;
+    margin: 10px;
+    border: solid black 5px;
+    border-radius: 10px;
+    padding: 20px;
+    background: white;
+}
+
+a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    margin: 10px;
+}
